@@ -1,2 +1,2 @@
 # DevOps
-Acelerador Profissional
+Conteúdo de Estudo
